@@ -1,5 +1,5 @@
 # github
-I am a PhD economist who is passionate about data-driven analysis.<br /> 
+###### I am a PhD economist who is passionate about data-driven analysis<br /> 
 *Kmeans_Clustering_Foursquare_and_Wiki_Data*  <br /> 
 This notebook scrapes Wikipedia for Toronto postal data and assigns geographic coordinates using geocoder.arcgis. I then retrieve Foursquare data on venues in Toronto proper, and use the K-Means clustering algorithm to cluster neighborhoods based on the results.<br /> 
 *Explaining_NYC_COVID19_Cases* <br />
