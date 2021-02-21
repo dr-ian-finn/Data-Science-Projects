@@ -5,3 +5,4 @@ This notebook scrapes Wikipedia for Toronto postal data and assigns geographic c
 <br /> 
 *Explaining_NYC_COVID19_Cases* <br />
 This notebook performs a zip-code level analysis of COVID-19 incidence in New York City using regression and machine learning techniques. The results of this analysis are described in the *An Analysis of COVID-19 Incidence in New York City - Paper Format* and *An Analysis of COVID-19 Incidence in New York City - Presentation Format* files, which are located in the *Projects* folder.
+https://nbviewer.jupyter.org/github/dr-ian-finn/Jupyter-Notebooks/blob/master/Kmeans_Clustering_Foursquare_and_Wiki_Data.ipynb
